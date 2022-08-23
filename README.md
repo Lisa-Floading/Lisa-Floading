@@ -17,8 +17,8 @@ I'm currently a veteran high school English educator who teaches AP English Lang
 - 🌱 I’m currently learning about SQL and SQLite. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with transitioning into more data-oriented role in education or another industry. 
-- 💬 Ask me about vintage typewriters. No, really! 
-- 📫 How to reach me: lisafloading@gmail.com and https://www.instagram.com/platen_place/?hl=en
+- 💬 Ask me about vintage typewriters. No, really!
+- 📫 How to reach me: lisafloading@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have four cats, two sibling Siamese and two sibling street urchins. 
 ---
