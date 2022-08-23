@@ -11,16 +11,12 @@
 
 Hi there, thanks for stopping by, I'm **Lisa Floading** from **Milwaukee, Wisconsin.**
 
- 😁
-
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 📫 You can find me on...
+I'm currently a veteran high school English educator who teaches AP English Language & Composition. I have a B.A. from Marquette University in English and Philosophy and an M.A. from Cardinal Stritch University, where I have been an adjunct instructor for Secondary Methods in Education. 
  
-- 🔭 I’m currently working on my certificate in data analytics and visualization through UW-Madison
+- 🔭 I’m working on my certificate in data analytics and visualization through UW-Madison
 - 🌱 I’m currently learning about SQL and SQLite. 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with transitioning into more data-oriented role in education or another industry. 
 - 💬 Ask me about vintage typewriters. No, really! 
 - 📫 How to reach me: lisafloading@gmail.com 
 - 😄 Pronouns: she/her
