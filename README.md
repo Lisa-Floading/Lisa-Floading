@@ -18,7 +18,7 @@ I'm currently a veteran high school English educator who teaches AP English Lang
 - 🤔 I’m looking for help with transitioning into more data-oriented role in education or another industry. 
 - 💬 Ask me about vintage typewriters. No, really!
 - 📫 How to reach me: lisafloading@gmail.com
-- 😄 Pronouns: she/her
+- ⭐️ Pronouns: she/her
 - ⚡ Fun fact: I have four cats, two sibling Siamese and two sibling street urchins. 
 ---
 
