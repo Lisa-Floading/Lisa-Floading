@@ -23,7 +23,7 @@ I'm currently a veteran high school English educator who teaches AP English Lang
 ---
 
 <p align="center">
-  <i>A good code is like a story, not a puzzle.</i><br/>
+  <i>Good code is a story, not a puzzle.</i><br/>
 
 </p>
 
