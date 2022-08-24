@@ -21,12 +21,8 @@ I'm currently a veteran high school English educator who teaches AP English Lang
 - ⭐️ Pronouns: she/her
 - ⚡ Fun fact: I have four cats, two sibling Siamese and two sibling street urchins. 
 ---
-
 <p align="center">
   <i>Good code is a story, not a puzzle.</i><br/>
-
 </p>
-
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
-
 ---
