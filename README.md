@@ -19,7 +19,7 @@ I'm currently a veteran high school English educator who teaches AP English Lang
 - 💬 Ask me about vintage typewriters. No, really!
 - 📫 How to reach me: lisafloading@gmail.com
 - ⭐️ Pronouns: she/her
-- ⚡ Fun fact: I have four cats, two sibling Siamese and two sibling street urchins. 
+- ⚡ Fun fact: I have four cats (wo sibling Siamese and two sibling street urchins.)
 ---
 <p align="center">
   <i>Good code is a story, not a puzzle.</i><br/>
