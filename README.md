@@ -15,7 +15,7 @@ I'm currently a veteran high school English educator who teaches AP English Lang
  
 - 🔭 I’m working on my certificate in data analytics and visualization through UW-Madison
 - 🌱 I’m currently learning about SQL and SQLite. 
-- 🤔 I’m looking for help with transitioning into more data-oriented role in education or another industry. 
+- 🤔 I’m looking for help with transitioning into another career field.  
 - 💬 Ask me about vintage typewriters. No, really!
 - 📫 How to reach me: lisafloading@gmail.com
 - ⭐️ Pronouns: she/her
