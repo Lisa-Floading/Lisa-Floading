@@ -9,17 +9,13 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-Thanks for stopping by, I'm **Lisa Floading** from **Milwaukee, Wisconsin.**
-
-I'm currently a veteran high school English educator who teaches AP English Language & Composition, Junior Communications and Creative Writing. I have a B.A. from Marquette University in English and Philosophy and an M.A. from Cardinal Stritch University, where I have been an adjunct instructor for Secondary Methods in Education. 
- 
-- 🔭 I’m working on my certificate in data analytics and visualization through UW-Madison
-- 🌱 I’m currently learning about SQL and SQLite. 
-- 🤔 I’m looking for help with transitioning into another career field.  
-- 💬 Ask me about vintage typewriters. No, really!
+Thanks for stopping by, I'm **Lisa Floading** from **Milwaukee, Wisconsin, a veteran English educator with a lot to learn.**
+ -
+- 🔭 I'm working on my certificate in data analytics and visualization through UW-Madison.
+- 🌱 I’m currently learning about SQL and SQLite. I love talking to data! 
 - 📫 How to reach me: lisafloading@gmail.com
 - ⭐️ Pronouns: she/her
-- ⚡ Fun fact: I have four cats (wo sibling Siamese and two sibling street urchins.)
+- ⚡ Fun fact: Although I'm learning to code, I also repair and collect vintage manual typewriters! 
 ---
 <p align="center">
   <i>Good code is a story, not a puzzle.</i><br/>
