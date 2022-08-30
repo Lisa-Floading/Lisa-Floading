@@ -8,9 +8,7 @@
 
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
-
-Thanks for stopping by, I'm **Lisa Floading** from **Milwaukee, Wisconsin, a veteran English educator with a lot to learn.**
- -
+ 
 - 🔭 I'm working on my certificate in data analytics and visualization through UW-Madison.
 - 🌱 I’m currently learning about SQL and SQLite. I love talking to data! 
 - 📫 How to reach me: lisafloading@gmail.com
