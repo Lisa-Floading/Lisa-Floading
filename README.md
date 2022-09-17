@@ -10,7 +10,7 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
  
 - 🔭 I'm working on my certificate in data analytics and visualization through UW-Madison.
-- 🌱 I’m currently learning about SQL and SQLite. I love talking to data! 
+- 🌱 I’m currently a high school English teacher! 
 - 📫 How to reach me: lisafloading@gmail.com
 - ⭐️ Pronouns: she/her
 - ⚡ Fun fact: Although I'm learning to code, I also repair and collect vintage manual typewriters! 
